@@ -128,3 +128,12 @@ form {
 .button-group button:hover {
     opacity: 0.9;
 }
+
+.footer{
+    text-align: center;
+    padding: 20px;
+    background-image: url(https://i.pinimg.com/736x/ad/1c/37/ad1c379bdaf4b8ec44dac72d136fca46.jpg);
+    color: black;
+    margin-top: 40px;
+    width: 100%;
+}
